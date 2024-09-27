@@ -24,11 +24,11 @@
 
 # Keyboard Shortcuts
 ### Shortcuts I Frequently Use:
-- Command-C (copy)
-- Command-V (paste)
-- Command-F (find items in a document)
+- `Command-C` (copy)
+- `Command-V` (paste)
+- `Command-F` (find items in a document)
 
 ### Shortcuts I Would Like To Start Using:
-- Command-Shift-T (reopen the last tab you closed)
-- Option-Shft-Volume Up/Down (adjust volume in smaller increments)
-- Command-Tab (opens menu to switch between most recently used apps)
+- `Command-Shift-T` (reopen the last tab you closed)
+- `Option-Shft-Volume Up/Down` (adjust volume in smaller increments)
+- `Command-Tab` (opens menu to switch between most recently used apps)
